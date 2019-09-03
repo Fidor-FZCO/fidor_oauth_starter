@@ -1,6 +1,6 @@
-# Ruby oAuth - Example
+# Ruby oauth - Example
 
-A single view that demonstrates the Fidor API OAuth login flow and how to get 
+A single app that demonstrates the API OAuth login flow and how to get 
 an access token. Uses Sinatra on its server side.
 
 ## Pre Requisities
@@ -16,8 +16,8 @@ cd ruby_oauth_plain
 bundle install
 ```
   
-## Run on the port mentioned while creating the app in App Manager
-  ruby example.rb -p <port>
+## Run on the port (port_number) mentioned while creating the app in App Manager
+  ruby example.rb -p port_number
 
 ## Configuration
 
