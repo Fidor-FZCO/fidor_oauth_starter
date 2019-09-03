@@ -11,11 +11,13 @@ Choose a port that you will be running this application. After that, go to App M
 
 This uses bundler to install the required gems:
 
-  cd ruby_oauth_plain
-  bundle install
+```sh
+cd ruby_oauth_plain
+bundle install
+```
   
 ## Run on the port mentioned while creating the app in App Manager
-  ruby example.rb -p 30990
+  ruby example.rb -p <<port>>
 
 ## Configuration
 
