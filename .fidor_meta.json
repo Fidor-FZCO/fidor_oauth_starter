@@ -1,0 +1,6 @@
+{
+  "display_name" : "Ruby oAuth Plain",
+  "description"  : "Ruby app doing the oAuth login to get and use the access token. Uses Sinatra as server.",
+  "app_name":"ruby_oauth_plain",
+  "language" : "ruby"
+}
