@@ -17,7 +17,7 @@ bundle install
 ```
   
 ## Run on the port mentioned while creating the app in App Manager
-  ruby example.rb -p <<port>>
+  ruby example.rb -p <port>
 
 ## Configuration
 
