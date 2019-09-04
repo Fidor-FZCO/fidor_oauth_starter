@@ -12,7 +12,7 @@ Choose a port that you will be running this application. After that, go to App M
 This uses bundler to install the required gems:
 
 ```sh
-cd ruby_oauth_plain
+cd fidor_oauth_starter
 bundle install
 ```
   
