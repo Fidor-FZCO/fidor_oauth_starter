@@ -5,7 +5,7 @@ an access token. Uses Sinatra on its server side.
 
 ## Pre Requisities
 
-Choose a port that you will be running this application. After that, go to App Manager, create an app and mention the callback url as this App's root URL. 
+You need to have Ruby installed with version 2.2.2. Choose a port that you will be running this application. After that, go to App Manager, create an app and mention the callback url as this App's root URL. 
 
 ## Usage
 
@@ -17,7 +17,9 @@ bundle install
 ```
   
 ## Run on the port (port_number) mentioned while creating the app in App Manager
-  ruby example.rb -p port_number
+  ruby example.rb -p port_number <br>
+
+  Visit the app in your browser http://localhost:port_number
 
 ## Configuration
 
