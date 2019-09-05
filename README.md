@@ -14,6 +14,7 @@ This app uses bundler to install the required gems:
 
 ```sh
 cd fidor_oauth_starter
+gem install bundler
 bundle install
 ```
 
